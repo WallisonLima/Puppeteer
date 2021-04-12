@@ -14,7 +14,7 @@
   * Salvar determinado conteúdo em PDF;
   * Monitorar determinado valor ou condição da página para disparar uma ação secundaria;
   * Buscar dados dentro das páginas e muito mais…
-  * 
+  
   De fato as possibilidades são infinitas! O Puppeteer pode ser utilizando tanto para Web Scraping quanto para Web Crawling. Vejamos rapidamente o que cada termo   significa:
   
   > Web Scraping: ato de baixar automaticamente os dados de uma ou mais páginas tendo como principal objetivo extrair informações muito especificas; Automatizar   ações realizadas via uso da interface do navegador, tais como preencher e submeter formulários ou até mesmo simular a navegação de um usuário dentro do “site”.
@@ -40,6 +40,6 @@ Neste projeto será implementado algo para que você consiga brincar(tirar um sa
 
 Feito isso é so dar risadas e esperar acontecer! Aproveite essa ferramenta poderosa não só para brincar com seus amigos, mas também se aprimorar nos recursos e utilizar para o bem. Esta ferramenta poderosa pode te ajudar muito a melhorar ainda mais processos web e também aumentar seus conhecimentos em programação. 
 
-Não esqueça de deixar uma estrela no meu perfil, isso me ajuda demais. AProveite!
+####Não esqueça de deixar uma estrela no meu perfil, isso me ajuda demais. AProveite!
 
 
