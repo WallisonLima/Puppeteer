@@ -3,7 +3,7 @@
 
 ## O que é o Puppeteer?
 
-  > O Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controle programático do Chrome ou Chromium por meio do protocolo DevTools. Esse       controle pode ocorrer nos bastidores (segundo plano sem lançamento de janela), ou se preferir, é possível acompanhar toda a execução de forma visual ao           solicitar o lançamento da interface gráfica do navegador. https://fabiojanio.medium.com/node-js-web-scraping-com-puppeteer-                                 29dd974eb042#:~:text=O%20Puppeteer%20%C3%A9%20uma%20biblioteca,por%20meio%20do%20protocolo%20DevTools
+  > O Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controle programático do Chrome ou Chromium por meio do protocolo DevTools. Esse       controle pode ocorrer nos bastidores (segundo plano sem lançamento de janela), ou se preferir, é possível acompanhar toda a execução de forma visual ao           solicitar o lançamento da interface gráfica do navegador. [Artigo Medium](https://bityli.com/l70dc)                        
 
 
 ## O que ela faz?
@@ -19,7 +19,9 @@
   
   >  Web Scraping: ato de baixar automaticamente os dados de uma ou mais páginas tendo como principal objetivo extrair informações muito especificas; Automatizar   ações realizadas via uso da interface do navegador, tais como preencher e submeter formulários ou até mesmo simular a navegação de um usuário dentro do “site”.
     
-  >  Web Crawling: ato de baixar automaticamente os dados de uma página web, extrair os hiperlinks contidos nela e segui-los de forma recursiva. De modo grosseiro e simplório, imagine que essa é uma das técnicas utilizadas por buscadores como Google, Bing e outros. https://fabiojanio.medium.com/node-js-web-scraping-com-puppeteer-29dd974eb042#:~:text=O%20Puppeteer%20%C3%A9%20uma%20biblioteca,por%20meio%20do%20protocolo%20DevTools
+  >  Web Crawling: ato de baixar automaticamente os dados de uma página web, extrair os hiperlinks contidos nela e segui-los de forma recursiva. De modo grosseiro e simplório, imagine que essa é uma das técnicas utilizadas por buscadores como Google, Bing e outros. 
+  
+  [Artigo Medium](https://bityli.com/l70dc)
 
 
 
