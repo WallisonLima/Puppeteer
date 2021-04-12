@@ -1,12 +1,12 @@
-# Puppeteer
-Automação web para brincar com seus amigos e aprender os fundamentos de Puppeteer.
+# [![](https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png)](https://pptr.dev/)
+### Automação web para brincar com seus amigos e aprender os fundamentos de Puppeteer.
 
-O que é o Puppeteer?
+## O que é o Puppeteer?
 
 O Puppeteer é uma biblioteca Node.js que fornece uma API de alto nível para controle programático do Chrome ou Chromium por meio do protocolo DevTools. Esse controle pode ocorrer nos bastidores (segundo plano sem lançamento de janela), ou se preferir, é possível acompanhar toda a execução de forma visual ao solicitar o lançamento da interface gráfica do navegador.(https://fabiojanio.medium.com/node-js-web-scraping-com-puppeteer-29dd974eb042#:~:text=O%20Puppeteer%20%C3%A9%20uma%20biblioteca,por%20meio%20do%20protocolo%20DevTools.)
 
 
-O que ela faz?
+## O que ela faz?
 
 Basicamente, qualquer “coisa” feita via uso do Chrome ou Chromium pode ser automatizada via Puppeteer. Veja alguns exemplos:
 Simular ações de usuários, tais como navegar nas páginas, clicar em links/botões, preencher formulários e enviá-los;
@@ -22,7 +22,7 @@ Web Crawling: ato de baixar automaticamente os dados de uma página web, extrair
 
 
 
-Projeto!! (ATENÇÃO: NÃO CLONE SE VOCÊ NÃO TEM SENSO DE HUMOR)
+## Projeto!! (ATENÇÃO: NÃO CLONE SE VOCÊ NÃO TEM SENSO DE HUMOR)
 
 
 Neste projeto será implementado algo para que você consiga brincar(tirar um sarrinho), dos seus colegas e amigos. Como sabemos o Puppeteer automatiza seu funções baseadas no uso do browser Chrome ou Chromium, então clone todo o código, e siga os seguintes comandos:
