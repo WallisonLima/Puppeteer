@@ -39,7 +39,7 @@ async function ra() {
 	const browser = await puppeteer.launch({headless: false, args: ['--start-maximized']});
 	
 	const urls = [
-	'http://go.phot.re/HMXDA',
+	'',
 	];
 
 	for(let i = 0; i < 20; i++){
